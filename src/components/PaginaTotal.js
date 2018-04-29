@@ -136,7 +136,7 @@ class PaginaTotal extends Component {
                     />
                 }
             </div>
-        );
+        )
     }
 }
 
